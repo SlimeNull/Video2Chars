@@ -1,0 +1,6 @@
+C:\Users\LM\source\repos\Vedio2Chars\Vedio2Chars\bin\Debug\Vedio2Chars.exe
+C:\Users\LM\source\repos\Vedio2Chars\Vedio2Chars\bin\Debug\Vedio2Chars.pdb
+C:\Users\LM\source\repos\Vedio2Chars\Vedio2Chars\obj\Debug\Vedio2Chars.csprojAssemblyReference.cache
+C:\Users\LM\source\repos\Vedio2Chars\Vedio2Chars\obj\Debug\Vedio2Chars.csproj.CoreCompileInputs.cache
+C:\Users\LM\source\repos\Vedio2Chars\Vedio2Chars\obj\Debug\Vedio2Chars.exe
+C:\Users\LM\source\repos\Vedio2Chars\Vedio2Chars\obj\Debug\Vedio2Chars.pdb
