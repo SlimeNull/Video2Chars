@@ -21,3 +21,17 @@ C:\Users\LM\source\repos\Vedio2Chars\Video2Chars\bin\Debug\Accord.xml
 C:\Users\LM\source\repos\Vedio2Chars\Video2Chars\bin\Debug\Accord.Video.xml
 C:\Users\LM\source\repos\Vedio2Chars\Video2Chars\bin\Debug\Accord.Video.FFMPEG.x64.xml
 C:\Users\LM\source\repos\Vedio2Chars\Video2Chars\obj\Debug\Video2Chars.csproj.CopyComplete
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\bin\Debug\Video2Chars.exe.config
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\bin\Debug\Video2Chars.exe
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\bin\Debug\Video2Chars.pdb
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\bin\Debug\Accord.dll
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\bin\Debug\Accord.Video.dll
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\bin\Debug\Accord.Video.FFMPEG.x64.dll
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\bin\Debug\Accord.xml
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\bin\Debug\Accord.Video.xml
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\bin\Debug\Accord.Video.FFMPEG.x64.xml
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\obj\Debug\Video2Chars.csprojAssemblyReference.cache
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\obj\Debug\Video2Chars.csproj.CoreCompileInputs.cache
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\obj\Debug\Video2Chars.csproj.CopyComplete
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\obj\Debug\Video2Chars.exe
+E:\Project\Source\Repository\FromLaptop\repos\Vedio2Chars\Video2Chars\obj\Debug\Video2Chars.pdb
