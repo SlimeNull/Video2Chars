@@ -12,6 +12,7 @@ Video2Chars [/Preview] [-BaseChars 基本字符] 源文件 输出文件
 ```py
 "!@#$%^&*()_+=-0987654321qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM,. "
 ```
+当源文件是一个视频时, 输出文件是可以被 [NullPlayer](https://github.com/SlimeNull/NullPlayer) 所播放的.
 
 ## 下载链接:
 Windows可执行文件以及所需链接库的压缩包 - 更新于2021/1/12: https://chonet.lanzous.com/i5pjDkapbde
